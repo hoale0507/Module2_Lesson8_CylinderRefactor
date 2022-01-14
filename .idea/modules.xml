@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/cylinder.iml" filepath="$PROJECT_DIR$/cylinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Module2_Lesson8_CylinderRefactor.iml" filepath="$PROJECT_DIR$/.idea/Module2_Lesson8_CylinderRefactor.iml" />
     </modules>
   </component>
 </project>
